@@ -1,0 +1,10 @@
+C:\Users\jy\260224-ViT\data\train\0-building-in\IMG_6826 2.jpeg
+C:\Users\jy\260224-ViT\data\train\0-building-in\IMG_6827 2.jpeg
+C:\Users\jy\260224-ViT\data\train\1-building-out\IMG_6829 2.jpeg
+C:\Users\jy\260224-ViT\data\train\1-building-out\IMG_6832 2.jpeg
+C:\Users\jy\260224-ViT\data\train\2-road\IMG_6828 2.jpeg
+C:\Users\jy\260224-ViT\data\train\2-road\IMG_6830 2.jpeg
+C:\Users\jy\260224-ViT\data\train\2-road\IMG_6835 2.jpeg
+C:\Users\jy\260224-ViT\data\train\3-nature\IMG_6831 2.jpeg
+C:\Users\jy\260224-ViT\data\train\3-nature\IMG_6833 2.jpeg
+C:\Users\jy\260224-ViT\data\train\3-nature\IMG_6834 2.jpeg
